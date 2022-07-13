@@ -16,9 +16,6 @@
 - ![Profile views](https://gpvc.arturio.dev/bitulvau)
 - [![GitHub followers](https://img.shields.io/github/followers/bitulvau.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bitulvau?tab=followers)
  
-
-<p align="left"> alt="bitulvau" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bitulvau" alt="bitulvau" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

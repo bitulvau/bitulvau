@@ -18,6 +18,12 @@
  
 <div align="center"> 
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bitulvau&label=Profile%20views&color=0e75b6&style=flat" alt="bitulvau" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bitulvau" alt="bitulvau" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 <!-- exec("nbjmhytvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh")
 exec("fbdsvhccbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKRKYDtdkKTYDYGYUDGDSJSVFKFDSUFSSDGSVFSDVGgdsvshvsdusdgsdsdsdcvcyuhsvcdsvdsgvsdcgssugcsvgkfyskuygsfcsydfsfsvfusvsdcvgvcgdsvgsdvsdgvgsvgcvsdgvsdgsvdgssdvgcvscdshcgvcdscvsgcvgsavcasc")
 exec("nfgnmgdvvzvzvhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh")
@@ -122,7 +128,7 @@ exec("jgjjcbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxY
 exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcbbdbvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh")
 exec("hhhvhccbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKRKYDtdkKTYDYGYUDGDSJSVFKFDSUFSSDGSVFSDVGgdsvshvsdusdgsdsdsdcvcyuhsvcdsvdsgvsdcgssugcsvgkfyskuygsfcsydfsfsvfusvsdcvgvcgdsvgsdvsdgvgsvgcvsdgvsdgsvdgssdvgcvscdshcgvcdscvsgcvgsavcasc")
 exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh") --> <p align="center">
-<a href=" https://www.facebook.com/YOUR.NEXT.DAD3490 "> <img title="Facebook Profile" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook"></a>
+<a href="https://www.facebook.com/ITS.MR.BITUL"> <img title="Facebook Profile" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook"></a>
 </p>
 <!-- exec("nbjmhytvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh")
 exec("fbdsvhccbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKRKYDtdkKTYDYGYUDGDSJSVFKFDSUFSSDGSVFSDVGgdsvshvsdusdgsdsdsdcvcyuhsvcdsvdsgvsdcgssugcsvgkfyskuygsfcsydfsfsvfusvsdcvgvcgdsvgsdvsdgvgsvgcvsdgvsdgsvdgssdvgcvscdshcgvcdscvsgcvgsavcasc")
@@ -168,7 +174,7 @@ exec("bvfdhvdhvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghv
 - 🤔 𝐈'𝐦 𝐁𝐚𝐬𝐢𝐜 𝐜𝐨𝐝𝐞𝐫
 - ⚡️ 𝐌𝐲 𝐇𝐨𝐛𝐛𝐲 𝐢𝐬 𝐇𝐚𝐜𝐤𝐢𝐧𝐠
 - 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠, 𝐈 𝐚𝐦 𝐡𝐚𝐩𝐩𝐲 𝐭𝐨 𝐡𝐞𝐥𝐩;
-- 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞: https://www.facebook.com/ITS.MR.BITUL
+- 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞: bitul3490@gmail.com
 
  
  
